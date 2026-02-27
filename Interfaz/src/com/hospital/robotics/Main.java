@@ -27,9 +27,9 @@ public class Main {
         
         SurgerySystem system = new SurgerySystem(factory);
         
-        System.out.println("--- Iniciando cirugía ---");
+        System.out.println("--- Starting surgery ---");
         system.performSurgery();
-        System.out.println("--- Cirugía completada ---\n");
+        System.out.println("--- Surgery completed ---\n");
         
         scanner.close();
     }
