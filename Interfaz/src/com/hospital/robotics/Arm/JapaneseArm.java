@@ -4,6 +4,6 @@ public class JapaneseArm implements RoboticArm {
 
     @Override
     public void operate() {
-        System.out.println("Brazo japonés: velocidad optimizada");
+        System.out.println("Japanese arm: optimized speed");
     }
 }
